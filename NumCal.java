@@ -16,7 +16,7 @@ public static void main(String[] args) {
 	int sum = a+b+c;
 	System.out.println("sum of numbers are " + sum);
 //	System.out.println("sum of numbers are " + sum);
-//	System.out.println("avg of numbers are " + sum/3);
+	System.out.println("avg of numbers are " + sum/3);
 //	System.out.println("avg of numbers are " + sum/3);
 	
 	
